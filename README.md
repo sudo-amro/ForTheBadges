@@ -1,2 +1,2 @@
 # ForTheBadges
-Only for the GitHub Badge
+Only for the GitHub Badges, yeah.
